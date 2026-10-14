@@ -36,6 +36,11 @@ This project simulates a food delivery workflow using CSV order data. Apache Air
 7. Generate `order_summary.json`.
 8. Finish the workflow.
 
+## DAG Workflow
+
+![Food Delivery DAG Graph](screenshots/food_delivery_pipeline-graph.png)
+
+
 ## Project Structure
 
 ```text
